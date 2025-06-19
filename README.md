@@ -7,7 +7,7 @@ This dataset contains longitudinal monthly metrics collected from 82 open-source
 The dataset was used in the following study:
 
 > [The Impact of Automatic Static Analysis Tools Integration on Open-Source Development Practices]  
-> [Mazen Al-Asali], [2025]  
+> [Mazen Al-Asali, Mohammed El-Ramly], [2025]  
 
 
 ---
@@ -36,7 +36,7 @@ Each row represents aggregated monthly metrics for a single project over two obs
 | `Time_To_Merged_Pulls_Before` | Average time to merge pull requests (ms, before adoption) |
 | `Sonar_Cloud_Adoption_Date` | Date of SonarCloud adoption for the project |
 | `STARS` | GitHub repository star count |
-| `Project_Age` | Project age (years) at the time of adoption |
+| `Project_Age` | Project age (months) at the time of adoption |
 | `Programming_Language` | Primary programming language |
 | `Number_Of_Closed_Issues_After` | Number of closed issues (after adoption) |
 | `Number_Of_Opened_Issues_After` | Number of opened issues (after adoption) |
