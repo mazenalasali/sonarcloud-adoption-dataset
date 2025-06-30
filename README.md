@@ -6,7 +6,7 @@ This dataset contains longitudinal monthly metrics collected from 82 open-source
 
 The dataset was used in the following study:
 
-> [The Impact of Automatic Static Analysis Tools Integration on Open-Source Development Practices]  
+> [The Impact of Static Analysis on Open Source Software Development Practices]  
 > [Mazen Al-Asali, Mohammed El-Ramly], [2025]  
 
 
